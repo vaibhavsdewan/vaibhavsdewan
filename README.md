@@ -1,4 +1,13 @@
 ## Hi there 👋
+I am Vaibhav Dewan, a passionate **Full Stack Developer** and a third-year IT undergraduate from Delhi, India.
+
+🚀 Projects
+- CareerDoc: Offer Letter and Resume Generator built using MERN stack and Google OAuth.
+- SUIT: E-commerce Website with Integrated Admin Panel built using JavaScript, CSS and HTML.
+- GRAND: Luxury Fashion E-commerce Website built using HTML, CSS and JavaScript.
+
+📫 Connect with Me 
+[LinkedIn](https://linkedin.com/in/vaibhavsdewan) | [Email](mailto:vaibhavdewan3@gmail.com).
 
 <!--
 **vaibhavsdewan/vaibhavsdewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
