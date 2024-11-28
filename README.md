@@ -6,8 +6,10 @@ I am Vaibhav Dewan, a passionate **Full Stack Developer** and a third-year IT un
 - SUIT: E-commerce Website with Integrated Admin Panel built using JavaScript, CSS and HTML.
 - GRAND: Luxury Fashion E-commerce Website built using HTML, CSS and JavaScript.
 
-## 📫 Connect with Me 
-[LinkedIn](https://linkedin.com/in/vaibhavsdewan) | [Email](mailto:vaibhavdewan3@gmail.com).
+## 📫 Connect with Me
+<!-- Social media icons and links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vaibhavsdewan) 
+[![Email](https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail)](mailto:vaibhavdewan3@gmail.com)
 
 <!--
 **vaibhavsdewan/vaibhavsdewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
