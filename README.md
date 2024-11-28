@@ -2,7 +2,7 @@
 
 
 ## About Me
-With full-stack development skills, I bring a wealth of expertise to the table. My core competencies include MongoDB,JavaScript, and ReactJS. I excel at identifying innovative problem statements and rapidly building MVPs.
+With practical full-stack development skills, I bring a wealth of expertise to the table. My core competencies include MongoDB, JavaScript, and ReactJS. I excel at identifying innovative problem statements and rapidly building MVPs.
 
 
 
