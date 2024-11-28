@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 I am Vaibhav Dewan, a passionate **Full Stack Developer** and a third-year IT undergraduate from Delhi, India.
 
 ## 🚀 Projects
