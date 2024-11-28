@@ -1,11 +1,17 @@
-## 👋 Hi there 
-I am Vaibhav Dewan, a passionate **Full Stack Developer** and a third-year IT undergraduate from Delhi, India.
+# Hi there, I'm Vaibhav Dewan👋 
+ a passionate **Full Stack Developer** and a third-year IT undergraduate from Delhi, India.
+
+
+## About Me
+With full-stack development skills, I bring a wealth of expertise to the table. My core competencies include MongoDB,JavaScript, and ReactJS. I excel at identifying innovative problem statements and rapidly building MVPs.
+
+
 
 ## 🚀 Projects
 <!-- Showcase your projects with links -->
-- [CareerDoc](https://github.com/vaibhavsdewan/CareerDoc-Offer-Letter-and-Resume-Generator): Offer Letter and Resume Generator built using MERN stack and Google OAuth.
-- [SUIT](https://github.com/vaibhavsdewan/SUIT-E-commerce-website-with-integrated-admin-panel): E-commerce Website with Integrated Admin Panel built using JavaScript, CSS and HTML.
-- [GRAND](https://github.com/vaibhavsdewan/GRAND-Luxury-Fashion-Marketplace): Luxury Fashion E-commerce Website built using HTML, CSS and JavaScript.
+- [CareerDoc](https://github.com/vaibhavsdewan/CareerDoc-Offer-Letter-and-Resume-Generator): Generating Offer Letters and Resumes; built using MERN stack and Google OAuth.
+- [SUIT](https://github.com/vaibhavsdewan/SUIT-E-commerce-website-with-integrated-admin-panel): E-commerce Website with Integrated Admin Panel; built using JavaScript, CSS and HTML.
+- [GRAND](https://github.com/vaibhavsdewan/GRAND-Luxury-Fashion-Marketplace): Luxury Fashion E-commerce Website showcasing premium products; built using HTML, CSS and JavaScript.
 
 ## 📫 Connect with Me
 <!-- Social media icons and links -->
