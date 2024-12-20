@@ -10,7 +10,7 @@ With practical full-stack development skills, I bring a wealth of expertise to t
 <!-- Showcase your projects with links -->
 - [CareerDoc](https://github.com/vaibhavsdewan/CareerDoc-Offer-Letter-and-Resume-Generator): Generating Offer Letters and Resumes; built using MERN stack and Google OAuth.
 - [SUIT](https://github.com/vaibhavsdewan/SUIT-E-commerce-website-with-integrated-admin-panel): E-commerce Website with Integrated Admin Panel; built using JavaScript, CSS and HTML.
-- [GRAND](https://github.com/vaibhavsdewan/GRAND-Luxury-Fashion-Marketplace): Luxury Fashion E-commerce Website showcasing premium products; built using HTML, Tailwind CSS and JavaScript.
+- [GRAND](https://github.com/vaibhavsdewan/GRAND-Luxury-Fashion-Marketplace): Luxury Fashion E-commerce Website showcasing premium products; built using HTML and Tailwind CSS.
 
 ## 📫 Connect with Me
 <!-- Social media icons and links -->
