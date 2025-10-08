@@ -9,7 +9,7 @@ With practical full-stack development skills, I bring a wealth of expertise to t
 ## 🚀 Projects
 <!-- Showcase your projects with links -->
 - [CareerDoc](https://github.com/vaibhavsdewan/CareerDoc-Offer-Letter-and-Resume-Generator): Generating Offer Letters and Resumes; built using MERN stack and Google OAuth.
-- [AYUSH AAROGYA](https://github.com/garimabhayanaa/Ayush-Aarogya): Medicinal plant platform integrating AI-driven plant detection, health remedy recommendations, and 3D interactive visualization; built using React, Flask, and Firebase.
+- [AYUSH AAROGYA](https://github.com/vaibhavsdewan/Ayush-Aarogya): Medicinal plant platform integrating AI-driven plant detection, health remedy recommendations, and 3D interactive visualization; built using React, Flask, and Firebase.
 - [SUIT](https://github.com/vaibhavsdewan/SUIT-E-commerce-website-with-integrated-admin-panel): Garments and Accessories E-commerce Website with Integrated Admin Panel; built using JavaScript, CSS and HTML.
 - [GRAND](https://github.com/vaibhavsdewan/GRAND-Luxury-Fashion-Marketplace): Luxury Fashion E-commerce Website; built using HTML and Tailwind CSS.
 
